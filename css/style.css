@@ -20,7 +20,7 @@ input, textarea:focus {
   box-sizing: border-box;
   border-radius: 25px;
   border-style: solid;
-  border-color: lightgrey 1px;
+  border-color: rgb(238, 238, 238) 1px;
   opacity: 0.7;
   outline: none;
 }
