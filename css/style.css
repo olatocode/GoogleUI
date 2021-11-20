@@ -25,6 +25,11 @@ input, textarea:focus {
   outline: none;
 }
 
+input:hover{
+    border: 2px solid red;
+}
+
+
 ul {
   font-size: 14px;
   font-family: arial,sans-serif;
