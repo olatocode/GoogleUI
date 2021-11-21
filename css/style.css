@@ -19,8 +19,9 @@ input, textarea:focus {
   padding:  10px;
   box-sizing: border-box;
   border-radius: 25px;
-  border-style: solid;
-  border-color: lightgray 1px;
+/*   border-style: solid;
+  border-color: lightgray 1px; */
+  border: 1px solid lightgray;
   opacity: 0.7;
   outline: none;
 }
